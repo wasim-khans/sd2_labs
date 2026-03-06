@@ -56,3 +56,8 @@ Once in the database container, you can get a MySQL CLI in the usual way
 ```bash
 mysql -uroot -p<password> 
 ```
+
+---
+
+# sd2_labs
+This is the repository that showcases my lab work for the MSc in Web Development - Software Development module
